@@ -7,3 +7,5 @@ class Smiles:
         return ":'("
     def tongue():
         return ":P"
+    def glasses
+        retern "8)"
